@@ -1,5 +1,4 @@
 <a href="/index.html"></a>
-## Ding os 
 -不仅仅是一个os-
 
 ## V2.0特性：
