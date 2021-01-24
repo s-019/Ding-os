@@ -10,8 +10,10 @@
 
 ## Ding os 下载：
 
-V1.0[下载](/go/download/v1.0)
+V1.0[下载](/v1-0)
 
-V1.1[下载](/go/download/v1.1)
+V1.1[下载](/v1-1)
 
-V2.0[下载](/go/download/v2.0)
+V2.0[下载](/v2-0)
+
+DingUiV1.0[下载](/DingUi1-0)
