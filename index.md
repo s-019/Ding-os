@@ -27,4 +27,4 @@ DingUiV1.0[下载](https://dingos233.suibbs.online/DingUI1-0.html)
 
 <hr>
 © 2020-2021 Ding OS
-友情链接：[BiliBili](https://www.bilibili.com/)|[http;//dingtalk.com]|[189网盘](https://cloud.189.cn/)|[GITHUB](https//github.com)
+友情链接：[BiliBili](https://www.bilibili.com/)|[dingtalk](http://dingtalk.com)|[189网盘](https://cloud.189.cn/)|[GITHUB](https//github.com)
