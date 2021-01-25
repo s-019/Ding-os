@@ -1,3 +1,6 @@
+---
+permalink: /DingUI1-0.html
+---
 ### 下载DingUi 1.0：
 #### 下载渠道1：
 
