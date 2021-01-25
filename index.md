@@ -14,7 +14,7 @@ V1.1[下载](/v1-1)
 
 V2.0[下载](/v2-0)
 
-DingUiV1.0[下载](/DingUi1-0)
+DingUiV1.0[下载](https://dingos233.suibbs.online/DingUI1-0.html)
 
 ### 更多：
 > 加入内测群：
