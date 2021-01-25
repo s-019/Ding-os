@@ -1,5 +1,3 @@
-<a href="/index.html">
-
 *不仅仅是一个os*
 
 ### V2.0特性：
