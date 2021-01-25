@@ -23,7 +23,7 @@ DingUiV1.0[下载](https://dingos233.suibbs.online/DingUI1-0.html)
 
 > 二维码：
 
-<img src="https://static.dingtalk.com/media/lALPDhJzvIePbeDNATfM-g_250_311.png?auth_bizType=IM&auth_bizEntity=%7B%22cid%22%3A%221074184873%3A1074184873%22%2C%22msgId%22%3A%226087569864550%22%7D&bizType=im&open_id=1074184873" width="200" height="180">
+<img src="QR-code1.PNG" width="200" height="180">
 
 <hr>
 © 2020-2021 Ding OS
