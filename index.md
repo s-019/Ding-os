@@ -17,6 +17,7 @@ V2.0[下载](/v2-0)
 DingUiV1.0[下载](https://dingos233.suibbs.online/DingUI1-0.html)
 
 ### 更多：
-> 加入内测群：
+> 加入内测群：                                > 加入主群：
 
-[Dingtalk（点击后查看网址 ）](#Go-35909551)
+[Dingtalk-id（点击后查看网址 ）](#Go-35909551)|[Dingtalk](https://h5.dingtalk.com/circle/healthCheckin.html?corpId=ding1b7d1ba896be25969463214c5bd719d3&b496682c-=50af037b-&cbdbhh=qwertyuiop)
+
