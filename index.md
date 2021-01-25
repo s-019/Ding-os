@@ -19,7 +19,7 @@ DingUiV1.0[下载](https://dingos233.suibbs.online/DingUI1-0.html)
 ### 更多：
 > 加入内测群/主群/B站联系：
 
-[Dingtalk-id（点击后查看网址 ）](#Go-35909551) [Dingtalk](https://h5.dingtalk.com/circle/healthCheckin.html?corpId=ding1b7d1ba896be25969463214c5bd719d3&b496682c-=50af037b-&cbdbhh=qwertyuiop) [tell](https://space.bilibili.com/543849786)
+[Dingtalk-id（点击后查看网址 ）](#Go-35909551) [Dingtalk](https://h5.dingtalk.com/circle/healthCheckin.html?corpId=ding1b7d1ba896be25969463214c5bd719d3&b496682c-=50af037b-&cbdbhh=qwertyuiop) [B站空间给UP](https://space.bilibili.com/543849786)
 
 > 二维码：
 
